@@ -1,6 +1,3 @@
-Here's the complete content for your `README.md` file:
-
-```markdown
 # 📈 Stock Market Analysis App
 
 Welcome to the **Stock Market Analysis App**! This Streamlit-powered web application leverages the power of AI with OpenAI API and Yahoo Finance to provide you with comprehensive financial insights and interactive visualizations.
