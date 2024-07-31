@@ -1,6 +1,6 @@
 # 📈 Financial Stock Assistant Chatbot
 
-Welcome to the **Stock Market Analysis App**! This Streamlit-powered web application leverages the power of AI with OpenAI API and Yahoo Finance to provide you with comprehensive financial insights and interactive visualizations.
+Welcome to the **Financial Stock Assistant Chatbot**! This Streamlit-powered web application leverages the power of AI with OpenAI API and Yahoo Finance to provide you with comprehensive financial insights and interactive visualizations.
 
 ## ✨ Features
 
