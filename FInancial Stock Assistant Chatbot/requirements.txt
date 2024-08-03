@@ -1,0 +1,6 @@
+jsonlib-python3
+openai
+matplotlib
+pandas
+streamlit
+yfinance
